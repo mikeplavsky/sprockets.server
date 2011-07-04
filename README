@@ -1,0 +1,5 @@
+Very simple sprockets 2 http server
+
+gem install bundler
+bundle install
+ruby server.rb

@@ -1,0 +1,1 @@
+window.wow = 55

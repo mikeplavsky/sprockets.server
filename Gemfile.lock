@@ -1,0 +1,24 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    coffee-script (2.2.0)
+      coffee-script-source
+      execjs
+    coffee-script-source (1.1.1)
+    execjs (1.2.0)
+      multi_json (~> 1.0)
+    hike (1.1.0)
+    multi_json (1.0.3)
+    rack (1.3.0)
+    sprockets (2.0.0.beta.10)
+      hike (~> 1.0)
+      rack (~> 1.0)
+      tilt (~> 1.1, != 1.3.0)
+    tilt (1.3.2)
+
+PLATFORMS
+  x86-mingw32
+
+DEPENDENCIES
+  coffee-script
+  sprockets (~> 2.0.0.beta.10)
